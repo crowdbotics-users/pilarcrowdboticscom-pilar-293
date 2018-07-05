@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT pilarcrowdboticscom_pilar_293.wsgi:application
